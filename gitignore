@@ -1,0 +1,7 @@
+#ignore the following folders
+data/
+source/
+check/
+store/
+target/
+glove.6B/
